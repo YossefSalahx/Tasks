@@ -32,5 +32,5 @@ Example Interaction:
 Example Word:
 Suppose the chosen word is "apple", which the program scrambles to "pleap".
 
-# the vedois of tasks
+# the videos of tasks
 https://drive.google.com/drive/folders/1keqabpyPs42Ao8qgSVt6-KYArmdapgDm
